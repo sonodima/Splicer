@@ -1,4 +1,4 @@
-<h1 align="center">Splicer 🎼</h1>
+<h1 align="center">splicer 🎼</h1>
 <p>
 </p>
 
