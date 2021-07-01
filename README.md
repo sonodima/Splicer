@@ -13,7 +13,7 @@ Please keep in mind this project is for educational purposes only, and you must 
 * Drag and drop (working with any daw)
 * Splice follow focus
 
-> In the past I was working on a v2 of this project that used code injection to fetch titles of the samples, but that idea is pretty much dead.
+> This project was created for educational purposes only, requires a paid Splice account and does not allow its use for free.
 
 ## Author
 
